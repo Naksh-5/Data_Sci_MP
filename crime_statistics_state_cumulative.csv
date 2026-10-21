@@ -1,0 +1,40 @@
+period,state_ut,crime_category,cases_registered,pct_of_all_india_total,unit,source_id,source_verified,notes
+2014-2022 (cumulative),RAJASTHAN,Rape (IPC 376),41742,13.94,cases,CHRI_2024_analysis,TRUE,Highest of any State 2014-2022.
+2014-2022 (cumulative),MADHYA PRADESH,Rape (IPC 376),36144,12.07,cases,CHRI_2024_analysis,TRUE,Topped the prior 2001-2013 period but fell to 2nd (-10.58% vs 2001-2013).
+2014-2022 (cumulative),UTTAR PRADESH,Rape (IPC 376),31869,10.64,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),MAHARASHTRA,Rape (IPC 376),25606,8.55,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),ASSAM,Rape (IPC 376),15188,5.07,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),ODISHA,Rape (IPC 376),14713,4.91,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),CHHATTISGARH,Rape (IPC 376),13206,4.41,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),KERALA,Rape (IPC 376),12452,4.16,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),HARYANA,Rape (IPC 376),12182,4.07,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),JHARKHAND,Rape (IPC 376),10676,3.56,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),WEST BENGAL,Rape (IPC 376),10359,3.46,cases,CHRI_2024_analysis,TRUE,Sharpest decline vs 2001-2013 among large states (-53.90%).
+2014-2022 (cumulative),ANDHRA PRADESH,Rape (IPC 376),8931,2.98,cases,CHRI_2024_analysis,TRUE,"Post-bifurcation AP only (Telangana carved out June 2014) - not directly comparable to undivided pre-2014 AP figures, see geography.csv."
+2014-2022 (cumulative),TELANGANA,Rape (IPC 376),7794,2.60,cases,CHRI_2024_analysis,TRUE,"New state from June 2014, no pre-2014 standalone comparison possible. 979 cases in 2014; 814 in 2022 (-17%)."
+2014-2022 (cumulative),BIHAR,Rape (IPC 376),7635,2.55,cases,CHRI_2024_analysis,TRUE,-46.43% vs 2001-2013.
+2014-2022 (cumulative),KARNATAKA,Rape (IPC 376),6765,2.26,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),PUNJAB,Rape (IPC 376),6551,2.19,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),GUJARAT,Rape (IPC 376),5569,1.86,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),UTTARAKHAND,Rape (IPC 376),4238,1.41,cases,CHRI_2024_analysis,TRUE,Largest percentage increase of any state vs 2001-2013 (+163.89%).
+2014-2022 (cumulative),TAMIL NADU,Rape (IPC 376),3403,1.14,cases,CHRI_2024_analysis,TRUE,-56.79% vs 2001-2013.
+2014-2022 (cumulative),HIMACHAL PRADESH,Rape (IPC 376),2779,0.93,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),TRIPURA,Rape (IPC 376),1141,0.38,cases,CHRI_2024_analysis,TRUE,-50.20% vs 2001-2013.
+2014-2022 (cumulative),MEGHALAYA,Rape (IPC 376),926,0.31,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),GOA,Rape (IPC 376),656,0.22,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),ARUNACHAL PRADESH,Rape (IPC 376),652,0.22,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),MANIPUR,Rape (IPC 376),404,0.13,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),MIZORAM,Rape (IPC 376),391,0.13,cases,CHRI_2024_analysis,TRUE,Sharpest percentage decline of any state/UT vs 2001-2013 (-57.27%).
+2014-2022 (cumulative),SIKKIM,Rape (IPC 376),221,0.07,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),NAGALAND,Rape (IPC 376),134,0.04,cases,CHRI_2024_analysis,TRUE,-46.61% vs 2001-2013.
+2014-2022 (cumulative),Total (all States),Rape (IPC 376),282327,94.25,cases,CHRI_2024_analysis,TRUE,Sum across the 28 States listed above.
+2014-2022 (cumulative),DELHI (UT),Rape (IPC 376),13606,4.54,cases,CHRI_2024_analysis,TRUE,Highest of any UT.
+2014-2022 (cumulative),JAMMU & KASHMIR (UT),Rape (IPC 376),2567,0.86,cases,CHRI_2024_analysis,TRUE,UT since Oct 2019 - pre-2019 years in this cumulative figure are from the erstwhile State of J&K (see geography.csv).
+2014-2022 (cumulative),CHANDIGARH (UT),Rape (IPC 376),674,0.23,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),ANDAMAN & NICOBAR ISLANDS (UT),Rape (IPC 376),183,0.06,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),DAMAN & DIU / DADRA & NAGAR HAVELI (UT),Rape (IPC 376),84,0.03,cases,CHRI_2024_analysis,TRUE,The two UTs were merged into one in 2020 - see geography.csv.
+2014-2022 (cumulative),PUDUCHERRY (UT),Rape (IPC 376),55,0.02,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),LAKSHADWEEP (UT),Rape (IPC 376),15,0.01,cases,CHRI_2024_analysis,TRUE,
+2014-2022 (cumulative),LADAKH (UT),Rape (IPC 376),9,0.003,cases,CHRI_2024_analysis,TRUE,"New UT from Oct 2019, carved out of J&K - no pre-2019 standalone data exists. 2 cases in 2020, 5 in 2022 (+150%, small base)."
+2014-2022 (cumulative),Total (all UTs),Rape (IPC 376),17193,5.75,cases,CHRI_2024_analysis,TRUE,Sum across all UTs listed above.
+2014-2022 (cumulative),ALL INDIA,Rape (IPC 376),299520,100.00,cases,CHRI_2024_analysis,TRUE,Matches the sum of the national annual series in crime_statistics_national.csv (36735+34651+38947+32559+33356+32033+28046+31677+31516 = 299520).

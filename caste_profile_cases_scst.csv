@@ -1,0 +1,11 @@
+year,total_rape_cases,rape_cases_under_scst_poa_act,pct_scst_of_total_cases,source_id,source_verified,notes
+2014,36735,2233,6.08,CHRI_2024_analysis,TRUE,
+2015,34651,2336,6.74,CHRI_2024_analysis,TRUE,
+2016,38947,3515,9.03,CHRI_2024_analysis,TRUE,
+2017,32559,2714,8.34,CHRI_2024_analysis,TRUE,Only year in the series where the SC/ST-category count dipped year-on-year (alongside 2020).
+2018,33356,2936,8.80,CHRI_2024_analysis,TRUE,
+2019,32033,3486,10.88,CHRI_2024_analysis,TRUE,
+2020,28046,3372,12.02,CHRI_2024_analysis,TRUE,"Overall rape cases fell sharply in 2020 (pandemic year), but the SC/ST share of cases still rose from 2019's 10.88% to 12.02%."
+2021,31677,3870,12.22,CHRI_2024_analysis,TRUE,
+2022,31516,4241,13.46,CHRI_2024_analysis,TRUE,SC/ST PoA Act cases rose 9.59% year-on-year even as the overall national total dipped slightly (-0.51%).
+Total 2014-2022,299520,28703,9.58,CHRI_2024_analysis,TRUE,Cumulative.

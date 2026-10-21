@@ -1,0 +1,8 @@
+state_ut,standardized_name,notes_on_boundary_or_reporting_comparability
+Telangana,Telangana,"Carved out of Andhra Pradesh in June 2014. Pre-2014 Andhra Pradesh figures are NOT comparable to post-2014 Andhra Pradesh or Telangana figures without explicit reallocation, which was not performed in this build."
+Andhra Pradesh,Andhra Pradesh,See Telangana note - pre/post June 2014 bifurcation breaks direct year-over-year comparability at the state level.
+Jammu and Kashmir,Jammu and Kashmir (UT from Oct 2019),"Reorganized from a state into two Union Territories (J&K and Ladakh) effective 31 Oct 2019. Pre-2019 'Jammu and Kashmir' state figures are not directly comparable to post-2019 J&K (UT) figures."
+Ladakh,Ladakh (UT from Oct 2019),Newly created UT in Oct 2019 - no pre-2019 standalone figures exist; do not backfill with zeros.
+Delhi,Delhi (NCT),"Multiple sources in this build cite figures under both a Delhi state/UT administrative total and a separate 'Delhi metro city' figure (used in NCRB's 19-metros comparison table) - these are NOT the same population and must not be merged. See crime_statistics_state_partial.csv notes."
+Uttar Pradesh,Uttar Pradesh,"Multiple secondary sources note UP and Delhi introduced online FIR registration around 2016-2017, which several NCRB-adjacent commentators flag as inflating registered-case growth independent of any change in underlying incidence - see README interpretation warning."
+All other States/UTs,(unchanged),"No boundary changes affecting comparability were identified for other States/UTs in the 2014-2022 window during this research pass; this is not a guarantee of completeness and should be re-checked against NCRB's own comparability notes for each annual report."

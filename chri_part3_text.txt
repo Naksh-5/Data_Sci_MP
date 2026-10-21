@@ -1,0 +1,733 @@
+--- Page 1 ---
+Rape and Rape/Gangrape with Murder in India
+District-wise Incidence of Cases
+Preliminary Analysis of National Crime Records Bureau Data – Part 31
+Introduction
+In July 2014 we published a preliminary analysis of the publicly available government data about the
+incidence of the heinous crime of rape since the dawn of the 21st century and covering a 13-year
+period (2001 – 2013). This study was conducted in the aftermath of the 2012 gruesome gang-rape of
+Nirbhaya in New Delhi which eventually resulted in her death and the major amendments made to
+the existing criminal laws- both substantive and procedural based on the recommendations of the
+Justice J S Verma Committee. The report of this preliminary study can be accessed here. The
+spontaneous protests led by students and other segments launched across the country had forced
+the hands of the government at the Union and State-level to take concrete steps to ensure the safety
+of women and prevent sexual violence against them.
+Today we are at another historical juncture. Country-wide protests have been launched by the
+medical fraternity to protest the rape and murder of a young doctor in a government-run hospital in
+Kolkata earlier in August 2024. The Supreme Court of India has directed the setting up of a task force
+to protect doctors and other healthcare workers from violence they face in the line of duty.
+Meanwhile reports of rape, sexual assault, molestation of women and girls occurring in different
+parts of the country are published by the media every day. The criminal justice system has begun
+implementing what the Union Government calls- “decolonized criminal” laws since July this year.
+While it is too early to gauge their impact this is a good moment to ask whether the seminal
+amendments to the erstwhile criminal laws introduced through the Criminal Law (Amendment) Act,
+2013 have had any impact on the incidence of sexual crimes against women, particularly that of rape
+and rape-cum-murder.
+Such a study can be of two kinds or a combination of both. The first kind of study will involve an in-
+depth assessment of the manner in which the police registered and investigated such cases to collect
+prosecutable evidence, the manner in which the prosecutors led the case seeking punishment for
+the culprits and the manner in which trial courts decided those cases and the kind of support which
+survivors and/or their families received from the State. Going beyond the trial stage, such a study
+will also have to look into the manner in which the constitutional courts dealt with these cases in
+appeal. All of this will require pouring over thousands of pages of case-records. Thanks to the adverse
+impact of governmental action against us which began more than three years ago, depleting our staff
+strength and restricting our ability to raise resources even domestically, we are unable to conduct
+such an in-depth study.
+1 This preliminary study report is released by Commonwealth Human Rights Initiative (CHRI), New Delhi in October, 2024.
+We are grateful to the Jatashankar T. Pathak Charitable Trust (JTPCT), for their support, especially to its former Chair, the
+late Hansaben Pandya, who conceived of and encouraged the collaboration between the Trust’s Chhelbhai Dave Police
+Reforms Project and CHRI. We are also grateful to the Lal Family Foundation for supporting CHRI.
+1
+
+--- Page 2 ---
+So, we have tried to do what is second best- once again analyse government data about the incidence
+of rape and the manner of disposal of such cases by the police and courts. These statistics are
+published by the Union Home Ministry’s National Crime Records Bureau (NCRB) as
+Additional/District Tables accompanying its annual Crime in India (CII) reports.
+Our preliminary study is divided into three parts. Part-1 of our study report, contains our findings
+about the incidence of cases of rape and rape/gang rape with murder2 rape across the country and
+in each State and Union Territory (UT) during the period 2014-2022.3 We have also attempted a
+comparison with the trends we observed in our 2014 study of similar data for the period 2001-
+2013. Part-2 of our study report contains our findings about the manner of disposal of cases of
+rape and rape/gangrape with murder by the police and trial courts across the country.
+This document which is Part-3 of our study report contains our findings about the district-wise
+incidence of cases of rape and rape/gangrape with murder during the period 2015-2022 (8 years)
+for which data is available in a uniform and comparable manner.
+Part-3 of our study report below covers the following segments:
+• Districts reporting zero rape cases
+• Top-10 districts reporting the highest number of rape cases
+• Top-100 districts reporting the highest number of rape cases
+• Identifying the most frequently occurring districts in the top-100 list
+• Districts reporting the highest number of cases of rape/gangrape with murder
+A caveat about the nature of data used for this analysis: NCRB publishes data about the district-
+wise incidence of various crimes recognized as such under the erstwhile Indian Penal Code, 1860 and
+other special and local laws enacted by Parliament or the State Legislatures. In addition to
+administrative units existing in each State and UT, within the ambit of the term ‘district’, NCRB
+includes other law enforcement authorities such as the Railway Police, C.I.D., Crime Branch, Cyber
+Crimes Branch, Narcotics Branch, Intelligence Wing, NRI Wing, Metro Railways Police, Economic
+Offences Wing in its datasets. Most of these agencies do not have the jurisdiction to investigate the
+two categories of crimes that are part of this study. However, the Railway Police sometimes do report
+the incidence of such cases and NCRB publishes such data State and UT-wise. Crime Branch also
+investigates such offences when directed by the respective state governments or the high courts.
+However, as the exact provenance of crimes reported/investigated by these agencies cannot be
+determined from NCRB’s datasets, this study specifically focuses only on the districts that are easily
+identifiable on a map. Further, it must be remembered that the districts listed by NCRB in its datasets
+are ‘police districts’ whose jurisdiction may not necessarily overlap 100% with the revenue districts
+of the same name.
+2 NCRB terms this category of crimes as ‘murder with rape/gang rape’ which is based on the rule of ‘principal offence’ (offence
+which attracts the highest punishment). We have reversed the order of these words because in almost all cases it is the
+offence of rape which is committed first by the perpetrator(s) followed by murder in a bid to silence the victim forever.
+3 Similar data for the year 2023 is yet to be published by the NCRB.
+2
+
+--- Page 3 ---
+1) Districts reporting zero rape cases: Before delving deep into an analysis of the district-wise
+trends with regard to the incidence of rape and rape/gangrape with murder cases which can have
+a sickening effect on the reader, it is preferable to start on a positive note. There are a handful
+of districts every year from where not a single case of rape was reported to the police during the
+8-year period under study. We have labelled them- ‘districts reporting zero rape cases’ for the
+purpose of this analysis.4 See Tables 1-8 below, containing the year-wise list of districts from
+which not a single case of rape was reported to the police between 2015-2022;
+• In 2015, the first year of the period under study, there were 17 districts across 7 States and
+2 UTs which did not report any incident of rape. In 2020- the first year of the pandemic and
+in 2022 this number had increased to 39 districts which is a positive development. While the
+39 districts were spread across only 5 States and 4 UTs in 2020, in 2022 the 39 districts
+reporting zero incidents of rape were spread across 9 States and 4 UTs. The lowest number
+of such districts (14) was in 2019. However, the numbers have expanded ever since, falling
+only once in 2021;
+• Several districts in Arunachal Pradesh, Mizoram, Mizoram, Nagaland, Sikkim, Lakshadweep
+and Puducherry reported zero rape cases in most of the years covered by the period under
+study. However, it must be noted that none of these districts had a clean record in every
+year across the 8-year period. In other words, the crime of rape did occur in these districts
+also in one year or the other during the period under study;
+• States like Haryana, Punjab, Rajasthan, Madhya Pradesh, West Bengal, Odisha, Jharkhand,
+Andhra Pradesh, Karnataka, Maharashtra and Kerala do not figure in the list of ‘zero rape
+reporting districts’ in any of the years for the period under study. Interestingly, the States of
+Bihar and Uttar Pradesh both have figured at least once on this list See Tables 3 and 8 below.
+The focus of most of the efforts to tackle the ever-rising phenomenon of rape has been on
+devising legal solutions- expanding the scope and ambit of the term- ‘rape’, increasing the
+quantum of punishment that may be imposed on the culprits, assigning the investigation
+of such cases to women police officers, establishing fast track sessions courts, providing
+compensation to survivors etc. These punitive measures are of course indispensable for
+their deterrent effect. Preventive measures have focused more on increased police
+patrolling, improving lighting infrastructure, setting up dedicated helplines, mobile apps
+that will track the movement of single women and taxis and autorickshaws etc. These are
+also essential and their votaries have argued that the number of cases of rape would have
+increased in their absence. However, sociological studies are also required to devise
+preventive measures. A good place to start is those districts which report zero incidents
+year after year. What factors ensure the safety of women and girls from sexual predatory
+4 Despite categorizing them as such, we are not presuming that no incident of rape occurred at all in these districts. Multiple
+factors discourage survivors from coming forward to demand punishment for the culprits, such as social stigma, ridicule
+and humiliation that follows such occurrences, police apathy and inaction, and immense pressure brought on by the culprits
+themselves, family or friends or the community or local political elements against pursuing the course of justice, to name
+a few. Inclusion of a district in the ‘zero reporting’ category only implies that no crime belonging to the two categories
+under study, namely rape and rape/gangrape with murder was reported to the police requiring an investigation to be
+launched in that particular year.
+3
+
+--- Page 4 ---
+behaviour in these districts requires? Similarly, in States like Bihar and UP, where a handful
+of districts reported zero incidents in at least one year, studies are required to ascertain the
+reasons for their absence. Preventive actions that were successful, if any, in these districts
+must be identified and examined for emulation on other districts across the country.
+Table 1 Table 2
+2015 2016
+Districts Reporting Districts Reporting
+Zero Rape Cases State/UT Zero Rape Cases State/UT
+Anjaw, Dibang Anjaw, Kameng
+Valley, Longding, West, Tawang,
+Tawang ARUNACHAL PRADESH Tirap ARUNACHAL PRADESH
+Ganderbal JAMMU & KASHMIR Dang GUJARAT
+K.G.F. KARNATAKA Ganderbal, Kargil JAMMU & KASHMIR
+Chandel, Senapati, Tamenglong,
+Tamenglong MANIPUR Ukhrul, MANIPUR
+Kiphire, Longleng, Kiphire, Longleng,
+Tuensang NAGALAND Mon NAGALAND
+East, North SIKKIM Coimbatore City TAMIL NADU
+Pithoragarh UTTARAKHAND Tiruppur City TAMIL NADU
+6 States (as J&K then
+Lakshadweep LAKSHADWEEP 14 districts was)
+Karaikal PUDUCHERRY
+7 States (as J&K then
+17 districts was) & 2 UTs
+Table 3 Table 4
+2017 2018
+Districts Reporting Zero Districts Reporting Zero
+Rape Cases State/UT Rape Cases State/UT
+Anjaw, Kurung Kumey, ARUNACHAL Papumpare Rural, ARUNACHAL PRADESH
+Lower Dibang Valley, PRADESH Subansiri Lower, Tawang,
+Subansiri Lower, Tirap Kamle
+Motihari, Samastipur BIHAR Lahaul & Spiti HIMACHAL PRADESH
+Kargil JAMMU & Kargil JAMMU & KASHMIR
+KASHMIR
+Chandel, Churachandpur, MANIPUR Tamenglong, Ukhrul MANIPUR
+Senapati, Tamenglong,
+Ukhrul,
+Garo Hills South MEGHALAYA Garo Hills East, Garo Hills MEGHALAYA
+North
+Longleng, Mokokchung, NAGALAND Lawngtlai, Lunglei MIZORAM
+Peren, Tuensang, Wokha
+19 Districts 6 States (as J&K Longleng, Mokokchung, NAGALAND
+then was) Peren, Phek, Tuensang,
+Zunheboto
+Tiruppur City TAMIL NADU
+4
+
+--- Page 5 ---
+Medak, Vikarabad TELANGANA
+Uttarkashi UTTARAKHAND
+Nicobar ANDAMAN &
+NICOBAR ISLANDS
+Diu DAMAN & DIU
+Karaikal, Puducherry PUDUCHERRY
+26 districts 9 States (as J&K then
+was) and 3 UTs
+Table 5 Table 6
+2019 2020
+Districts Reporting Zero Districts Reporting Zero
+Rape Cases State/UT Rape Cases State/UT
+Anjaw, Dibang Valley, ARUNACHAL PRADESH Anjaw, Dibang, ARUNACHAL PRADESH
+Kameng East, Lower Papumpare Rural, Siang
+Dibang Valley, Siang Upper, Subansiri Lower,
+Upper, Subansiri Lower, Tawang, Namsai, Siang,
+Tirap, Siang, Kamle, Kra Dadi, Lower Siang,
+Leparda, Shiyomi, Shiyomi
+Pakkessang
+Naugachia, Vaishali BIHAR Chandel, Churachandpur, MANIPUR
+Tamenglong, Ukhrul,
+Kamjong, Kangpokpi,
+Jiribam, Noney, Pherzawl
+Lahaul & Spiti HIMACHAL PRADESH Lawngtlai, Lunglei, Saiha, MIZORAM
+Serchhip, Saitual,
+Hnahthial
+Awantipora, Kargil JAMMU & KASHMIR Kohima, Longleng, NAGALAND
+Mokokchung, Mon, Peren,
+Tuensang, Wokha,
+Zunheboto
+Chandel, MANIPUR West SIKKIM
+Churachandpur,
+Tamenglong, Kamjong,
+Kangpokpi, Noney,
+Pherzawl
+Kiphire, Longleng, Pere, NAGALAND Nicobar ANDAMAN &
+Phek, Wokha, NICOBAR ISLANDS
+Zunheboto
+Tiruppur City TAMIL NADU Awantipora JAMMU & KASHMIR
+Dadra Nagar Haveli DADRA NAGAR Kargil LADAKH
+HAVELI
+Lakshadweep LAKSHADWEEP Karaikal PUDUCHERRY
+Karaikal PUDUCHERRY 39 districts 5 States and 4 UTs
+34 districts 6 States and 4 UTs
+5
+
+--- Page 6 ---
+Table 7 Table 8
+2021 2022
+Districts Reporting Zero Districts Reporting Zero
+Rape Cases State/UT Rape Cases State/UT
+Dibang Valley, Papumpare ARUNACHAL PRADESH Anjaw, Dibang Valley, ARUNACHAL
+Rural, Tirap, Kra Dadi, Kurung Kumey, Papumpare PRADESH
+Leparada, Shiyomi, Rural, Siang Upper,
+Pakkessang Subansiri Upper, Pakessang
+Handwara JAMMU & KASHMIR Dang GUJARAT
+Chandel, Churachandpur, MANIPUR Chandel, Churachandpur, MANIPUR
+Tamenglong, Ukhrul, Senapati, Tamenglong,
+Kamjong, Kangpokpi, Kamjong, Kangpokpi,
+Jiribam, Noney, Pherzawl Noney, Pherzawl,
+Tengnoupal
+Garo Hills South West MEGHALAYA Garo Hills South West MEGHALAYA
+Saiha, Serchhip, Saitual, MIZORAM Champai, Lawngtlai, MIZORAM
+Hnahthial Lunglei, Mamit, Saiha,
+Serchhip, Saitual
+Longleng, Mokokchung, NAGALAND Mon, Phek, Tuensang, NAGALAND
+Peren, Phek, Tuensang, Wokha, Zunheboto
+Wokha, Zunheboto
+North SIKKIM Soreng (West) SIKKIM
+Rudraprayag UTTARAKHAND Ranipet TAMIL NADU
+NIcobar ANDAMAN & Lucknow Grameen, Kanpur UTTAR PRADESH
+NICOBAR ISLANDS Outer, Varanasi Dehat
+Diu DAMAN & DIU, North & Middle Andaman ANDAMAN &
+DADRA NAGAR NICOBAR ISLANDS
+HAVELI
+Lakshadweep LAKSHADWEEP Diu DAMAN & DIU,
+DADRA NAGAR
+HAVELI
+Karaikal PUDUCHERRY Handwara JAMMU & KASHMIR
+35 districts 6 States and 4 UTs Karaikal PUDUCHERRY
+39 districts 9 States and 4 UTs
+2) Top-10 districts reporting the highest number of rape cases: Before we discuss the
+findings under this category of analysis, it is important to point out that in the years 2019 and
+2020 there are 11 districts instead of 10 (see Tables 13 & 14 below). This is because, two districts
+tied in for the 10th spot as both reported similar number of cases for those years. In all the
+remaining years, during the period under study, only the top 10 districts are considered for
+analysis.
+• While only 2 States (Maharashtra and Rajasthan) and the UT of Delhi accounted for the
+top-10 districts in 2016, 2021 onwards this has expanded to 5 States (Rajasthan,
+Maharashtra, Madhya Pradesh, Chhattisgarh, Uttarakhand and Haryana);
+6
+
+--- Page 7 ---
+• Mumbai Commissionerate in Maharashtra and Alwar in Rajasthan are the only two districts
+which figure in the top-10 list in every year of the period under study (see Tables 9-16
+below) even though the number of cases varies from year to year. See Graph 1 below.
+Mumbai Police Commissionerate reported a very large number of cases in 2015 and 2016
+(712 each), but the number of cases has fallen to 370 in 2022 (52% decline). However, the
+lowest figure (287) was recorded in 2017 in this district. Mumbai topped the list in all years
+except 2017-18 when Bhopal took that spot. Despite falling drastically in 2016, Mumbai
+reported a decline in cases only once again in 2020- the first year of the pandemic. The
+numbers have been rising in all other years. It is important to identify the reasons for the
+inability of Mumbai to bring down the number of reported cases steadily;
+Graph 1
+• Alwar in Rajasthan, on the other hand has ranged between 216 (lowest in 2020- the first year
+of the pandemic) and 351 (highest in 2018) in terms of the number of reported rape cases
+during the period under study. Cases reported in Alwar have see-sawed during the period
+under study. While they fell in 2016, 2019 and 2020, they have only risen in the remaining
+years. See Graph-1 above;
+• The total number of cases reported from the top-10 districts was the highest (3,297) in 2016
+and the lowest (2,425) in 2020- the first year of the pandemic). See Graph 2 below;
+Graph 2
+7
+
+--- Page 8 ---
+• During the first two years of the period under study (2015 and 2016), districts in
+Maharashtra and Delhi figured more frequently in the top-10 districts. See Tables 9-10
+below. However, in the subsequent years of 2017-2018 districts in Madhya Pradesh figure
+more prominently (between 5-6 each year). See Tables 11-12 below. 2019 onwards it is
+Rajasthan whose districts figure more prominently in the top-10 districts. See Tables 13-15
+below;
+• Interestingly, Delhi’s districts are no longer figuring in the top-10 list 2017 onwards. Multiple
+districts in Delhi figured in the top-10 list between 2015 and 2016. See Tables 9-10 below. It
+is important to identify the systemic and societal factors that have contributed to the
+reduction in Delhi’s cases and increase in those reported in Rajasthan. Uttarakhand made an
+entry into the top-10 list in 2021 with Udhamsingh Nagar and added Haridwar in 2022. See
+Tables 14-15 below;
+Table 9 Table 10
+2015 2016
+District State/UT No. of District State/UT No. of
+Cases Cases
+Mumbai MAHARASHTRA 712 Mumbai MAHARASHTRA 712
+Commissionerate Commissionerate
+South Delhi DELHI 323 Outer Delhi DELHI 372
+Outer Delhi DELHI 315 Pune MAHARASHTRA 354
+Commissionerate
+West Delhi DELHI 272 Bengaluru City KARNATAKA 321
+Pune MAHARASHTRA 266 Bhopal MADHYA PRADESH 286
+Commissionerate
+Alwar RAJASTHAN 254 South-East Delhi DELHI 275
+Thane MAHARASHTRA 251 West Delhi DELHI 256
+Commissionerate
+Bharatpur RAJASTHAN 244 South Delhi DELHI 246
+North-East Delhi DELHI 244 Alwar RAJASTHAN 239
+South-East Delhi DELHI 240 Indore MADHYA PRADESH 236
+Total 2 States 1 UT 3121 Total 4 States 1 UT 3297
+Table 11 Table 12
+2017 2018
+District State/UT No. of District State/UT No. of
+Cases Cases
+Bhopal MADHYA PRADESH 316 Bhopal MADHYA PRADESH 356
+Mumbai MAHARASHTRA 287 Alwar RAJASTHAN 351
+Commissionerate
+Alwar RAJASTHAN 285 Mumbai MAHARASHTRA 319
+Commissionerate
+Indore MADHYA PRADESH 270 Dhar MADHYA PRADESH 272
+Chhindwara MADHYA PRADESH 234 Udaipur RAJASTHAN 244
+Dhar MADHYA PRADESH 227 Raipur CHHATTISGARH 217
+Gwalior MADHYA PRADESH 225 Jabalpur MADHYA PRADESH 216
+Sagar MADHYA PRADESH 213 Khargone MADHYA PRADESH 213
+8
+
+--- Page 9 ---
+Raipur CHHATTISGARH 211 Gwalior MADHYA PRADESH 211
+Palakkad KERALA 209 Bharatpur RAJASTHAN 203
+Total 4 States 2477 Total 4 States 2602
+Table 13 Table 14
+2019 2020
+District State/UT No. of District State/UT No. of
+Cases Cases
+Mumbai MAHARASHTRA 394 Mumbai MAHARASHTRA 322
+Commissionerate Commissionerate
+Bharatpur RAJASTHAN 290 Bharatpur RAJASTHAN 260
+Ajmer RAJASTHAN 252 Udaipur RAJASTHAN 228
+Ganganagar RAJASTHAN 248 Barmer RAJASTHAN 227
+Alwar RAJASTHAN 236 Morigaon ASSAM 222
+Bikaner RAJASTHAN 227 Alwar RAJASTHAN 216
+Udaipur RAJASTHAN 220 Ajmer RAJASTHAN 208
+Malappuram KERALA 206 Ganganagar RAJASTHAN 200
+Thiruvananthapuram KERALA 206 Bhiwadi RAJASTHAN 196
+Rural
+Palakkad KERALA 209 Gurugram HARYANA 173
+Bhilwara RAJASTHAN 206 Bhilwara RAJASTHAN 173
+Total 3 States 2708 Total 4 States 2425
+Table 15 Table 16
+2021 2022
+District State/UT No. of District State/UT No. of
+Cases Cases
+Mumbai MAHARASHTRA 364 Mumbai MAHARASHTRA 370
+Commissionerate Commissionerate
+Udaipur RAJASTHAN 326 Pune MAHARASHTRA 305
+Commissionerate
+Bharatpur RAJASTHAN 303 Bhilwara RAJASTHAN 301
+Alwar RAJASTHAN 288 Bharatpur RAJASTHAN 288
+Bhopal MADHYA PRADESH 240 Udaipur RAJASTHAN 283
+Barmer RAJASTHAN 236 Alwar RAJASTHAN 253
+Bhilwara RAJASTHAN 230 Bhopal MADHYA PRADESH 248
+Commissionerate
+Ajmer RAJASTHAN 229 Udhamsingh Nagar UTTARAKHAND 247
+Gurugram HARYANA 222 Haridwar UTTARAKHAND 229
+Udhamsingh UTTARAKHAND 222 Bilaspur CHHATTISGARH 218
+Nagar
+Total 5 States 2660 Total 5 States 2742
+3) Top-100 districts reporting the highest number of rape cases: While the choice of
+analytical categories like “zero case reporting districts” and “top 10 districts” discussed above is
+pretty obvious and does not require justification, the choice of the category of top-100 districts
+9
+
+--- Page 10 ---
+requires explanation. Although chosen randomly as a category of analysis initially (one could as
+well have analysed the top-25 or top-50 districts), this choice revealed the stark reality that a
+large volume of rape cases is reported from only about 100 districts year after year. Out of the
+600-750 police districts for which data is available during the 8-year period under study, the top-
+100 category accounts for between 40-45% of the total volume of cases reported across the
+country. See Tables 17-24 below. The remaining cases are spread out across other districts.
+In other words, if these top-100 districts are made the focus of intensive interventions to prevent
+and prosecute the crime of rape, resolutely, it might be possible, to bring down the incidence of
+cases to that extent i.e, 40-45%. This is an issue that goes to the heart of designing of preventive
+measures and ensuring the effective implementation of punitive measures. We hope policy-
+makers will consider this hypothesis seriously and test it out.
+Before we discuss the findings under this category of analysis, it is important to point out that in
+the years 2015 (102 districts), 2021 (103 districts) and 2022 (101 districts) there are more than
+100 districts covered in the data tables below (see Tables 17, 23 & 24 below). This is because,
+multiple districts tied in for the 100th spot as they reported similar number of cases during those
+years. In all the remaining years during the period under study, only the top 100 districts are
+considered for analysis.
+• Between 14-16 States and the UT of Delhi (Chandigarh entered this list only once in 2019)
+account for the top-100 districts throughout the 8-year period under study. Unlike in the
+top-10 category we analysed above, the number of States and UTs has not expanded during
+the period under study;
+• During the first four years of the period under study (2015-2018), Madhya Pradesh (MP)
+topped the list with between 19-26 districts appearing in the top-100 category. However,
+there is a drastic reduction in 2019-2020 when the number of districts fell down to 5 each.
+However, in subsequent years (2021-22) the number has almost doubled to 9 per year. The
+causal factors for the steep decline and the steady rise in the number of districts require in-
+depth study;
+• In contrast with MP, Rajasthan figured at 2nd position in the top-100 with only 13-15 districts
+during the first three years of the period under study. In 2018 this figure reached 20 and in
+all subsequent years, it has crossed 30. 2019 onwards Rajasthan tops the list of States in
+this category with between 32-39 districts every year. The data from 2022 indicates a
+significant decline in these figures- down to 32 from an all-time high of 39 districts in 2021.
+See Tables 17-24 below;
+• Another point of contrast is the volume of cases reported in MP and Rajasthan during the
+period under study. The number of cases reported from MP accounted for between 18% and
+30.4% of the total volume from the top-100 districts. However, the cases reported from
+Rajasthan account for between 34.34% to 43.65% since 2019 when it began appearing at
+the top of this category. In other words, the proportion of cases reported from the districts
+of Rajasthan is much higher than that reported from MP earlier;
+10
+
+--- Page 11 ---
+Table 17 Table 18
+Top Districts in 2015 Top Districts in 2016
+Daily
+Daily average
+average cases
+State/UT & No. of Rape % of (365 State/UT & No. of Rape % of (366
+Districts cases 14687 days) Districts cases 15738 days)
+Madhya Pradesh
+Madhya Pradesh (23) 2915 19.85 7.99 (19) 2853 18.13 7.80
+Maharashtra (15) 2686 18.29 7.36 Rajasthan (13) 1836 11.67 5.02
+Rajasthan (15) 2228 15.17 6.10 Uttar Pradesh (13) 1766 11.22 4.83
+Delhi (8) 2022 13.77 5.54 Maharashtra (11) 2376 15.10 6.49
+Odisha (8) 913 6.22 2.50 Delhi (9) 2058 13.08 5.62
+Telangana (7) 887 6.04 2.43 Telangana (7) 1101 7 3.01
+Chhattisgarh (6) 721 4.91 1.98 Chhattisgarh (4) 554 3.52 1.51
+Uttar Pradesh (4) 423 2.88 1.16 Kerala (4) 532 3.38 1.45
+Assam (3) 377 2.57 1.03 Assam (3) 377 2.40 1.03
+Kerala (3) 362 2.46 0.99 Odisha (3) 361 2.29 0.99
+West Bengal (2) 321 2.19 0.88 Karnataka (2) 424 2.69 1.16
+Andhra Pradesh (2) 264 1.80 0.72 West Bengal (2) 346 2.20 0.95
+Haryana (2) 258 1.76 0.71 Haryana (2) 345 2.19 0.94
+Karnataka (1) 112 0.76 0.31 Andhra Pradesh (2) 259 1.65 0.71
+Punjab (1) 101 0.69 0.28 Gujarat (2) 233 1.48 0.64
+Jharkhand (1) 97 0.66 0.27 Jharkhand (2) 213 1.35 0.58
+15 States 1 UT (102
+districts) Total 14687 Uttarakhand (1) 104 0.66 0.28
+16 States 1 UT (100
+42.40% of country total of 34637 cases districts) 15738
+40.41% of country total: 38947 cases
+Table 19 Table 20
+Top Districts in 2017 Top Districts in 2018
+Daily
+Daily average
+average cases
+State/UT & No. of Rape % of (365 State/UT & No. of Rape % of (366
+Districts cases 13302 days) Districts cases 14015 days)
+Madhya Pradesh (26) 4024 30.25 11.02 Madhya Pradesh (24) 3844 27.43 10.53
+Rajasthan (15) 1878 14.12 5.15 Rajasthan (20) 3011 21.48 8.25
+Kerala (11) 1413 10.62 3.87 Chhattisgarh (12) 1472 10.50 4.03
+Uttar Pradesh (11) 1263 9.49 3.46 Kerala (8) 1085 7.74 2.97
+Delhi (8) 876 6.59 2.40 Delhi (7) 754 5.38 2.07
+Odisha (7) 784 5.89 2.15 Uttar Pradesh (6) 783 5.59 2.15
+Chhattisgarh (6) 788 5.92 2.16 Maharashtra (5) 774 5.52 2.12
+Maharashtra (4) 690 5.19 1.89 Assam (5) 529 3.77 1.45
+Assam (3) 400 3.01 1.10 Uttarakhand (3) 463 3.30 1.27
+11
+
+--- Page 12 ---
+Telangana (2) 270 2.03 0.74 Haryana (3) 370 2.64 1.01
+West Bengal (2) 238 1.79 0.65 Andhra Pradesh (3) 301 2.15 0.82
+Haryana (2) 231 1.74 0.63 West Bengal (1) 192 1.37 0.53
+Andhra Pradesh (2) 199 1.50 0.55 Jharkhand (1) 177 1.26 0.48
+Karnataka (1) 130 0.98 0.36 Telangana (1) 154 1.10 0.42
+Uttarakhand (1) 118 0.89 0.32 Karnataka (1) 106 0.76 0.29
+14 States 1 UT (100 14 States 1 UT (100
+districts) 13302 districts) 14015 27.43 10.53
+40.86% of country total of 32559 cases 42.01% of country total of 33356 cases
+Table 21 Table 22
+Top Districts in 2019 Top Districts in 2020
+Daily
+Daily average
+average cases
+State/UT & No. of Rape % of (365 State/UT & No. of Rape % of (366
+Districts cases 13828 days) Districts cases 12064 days)
+Rajasthan (33) 5431 39.28 14.88 Rajasthan (37) 5099 42.27 13.93
+Kerala (11) 1380 9.98 3.78 Uttar Pradesh (9) 795 6.59 2.17
+Delhi (9) 902 6.52 2.47 Maharashtra (7) 834 6.91 2.28
+Maharashtra (6) 920 6.65 2.52 Assam (7) 814 6.75 2.22
+Assam (6) 730 5.28 2.00 Madhya Pradesh (5) 627 5.20 1.71
+Madhya Pradesh (5) 723 5.23 1.98 Haryana (5) 583 4.83 1.59
+Haryana (5) 517 3.74 1.42 Jharkhand (5) 549 4.55 1.50
+Jharkhand (4) 486 3.51 1.33 Chhattisgarh (5) 544 4.51 1.49
+Uttar Pradesh (4) 417 3.02 1.14 Andhra Pradesh (5) 480 3.98 1.31
+Telangana (3) 465 3.36 1.27 West Bengal (4) 457 3.79 1.25
+Chhattisgarh (3) 350 2.53 0.96 Telangana (3) 354 2.93 0.97
+Uttarakhand (3) 423 3.06 1.16 Delhi (3) 290 2.40 0.79
+Andhra Pradesh (3) 294 2.13 0.81 Uttarakhand (2) 315 2.61 0.86
+Odisha (2) 251 1.82 0.69 Odisha (1) 138 1.14 0.38
+West Bengal (1) 192 1.39 0.53 Karnataka (1) 108 0.90 0.30
+Karnataka (1) 143 1.03 0.39 Gujarat (1) 77 0.64 0.21
+15 States 1 UT (100
+Chandigarh (1) 112 0.81 0.31 districts) 12064
+Punjab (1) 92 0.67 0.25 43.02% of country total of 28046 cases
+16 States 2 UTs (100
+districts) 13828
+43.17% of country total of 32033 cases
+Table 23 Table 24
+Top Districts in 2021 Top Districts in 2022
+Daily Daily
+average average
+State/UT & No. of Rape % of (365 State/UT & No. of Rape % of (365
+Districts cases 14299 days) Districts cases 13998 days)
+12
+
+--- Page 13 ---
+Rajasthan (39) 6241 43.65 17.10 Rajasthan (32) 4807 34.34 13.17
+Madhya Pradesh (9) 1240 8.67 3.40 Uttar Pradesh (15) 1629 11.64 4.46
+Maharashtra (8) 1145 8.01 3.14 Maharashtra (9) 1568 11.20 4.30
+Haryana (7) 939 6.57 2.57 Haryana (9) 1103 7.88 3.02
+Delhi (7) 750 5.25 2.05 Delhi (7) 719 5.14 1.97
+Assam (6) 726 5.08 1.99 Madhya Pradesh (6) 1014 7.24 2.78
+Uttar Pradesh (6) 602 4.21 1.65 Uttarakhand (4) 763 5.45 2.09
+Jharkhand (5) 630 4.41 1.73 Odisha (4) 438 3.13 1.20
+Telangana (3) 395 2.76 1.08 Telangana (3) 400 2.86 1.10
+Andhra Pradesh (3) 391 2.73 1.07 Jharkhand (3) 395 2.82 1.08
+Odisha (3) 333 2.33 0.91 Chhattisgarh (2) 332 2.37 0.91
+Uttarakhand (2) 335 2.34 0.92 West Bengal (2) 295 2.11 0.81
+West Bengal (2) 271 1.90 0.74 Karnataka (1) 151 1.08 0.41
+Chhattisgarh (2) 184 1.29 0.50 Gujarat (1) 104 0.74 0.28
+Karnataka (1) 117 0.82 0.32 Assam (1) 98 0.70 0.27
+14 States 1 UT (103
+districts) 14299 Kerala (1) 97 0.69 0.27
+45.14% of country total of 31677 cases Bihar (1) 85 0.61 0.23
+16 States 1 UT (101
+districts) 13998
+44.42% of country total of 31516 cases
+• When MP topped the list between 2015-2018, the daily average number of cases reported
+from its districts ranged between 7-11 cases. However, after Rajasthan has begun topping
+the list 2019 onwards, the daily average number of cases reported in that State has ranged
+between 13-17 cases. See the last column in Tables 17-24 below. See Graph 3 below showing
+the contrasting trends in MP and Rajasthan;
+Graph 3
+• The UT of Delhi figured on the top-100 districts list regularly with between 7-9 districts
+every year except in 2020- the first year of the COVID-19 pandemic when it fell to just 3
+districts. However, from an all-time high of 2022 cases in 2015, the figures have dropped to
+13
+
+--- Page 14 ---
+719 in 2022- the lowest during the period under study. See Graph 4 below. This trend also
+requires in-depth study to ascertain the preventive and punitive measures that Delhi has
+put in place to bring down the figures;
+Graph 4 Graph 5
+• Maharashtra’s districts figuring in the top-100 list reported 2,686 cases in 2015- the highest
+during the 8-year period under study. Cases reduced to almost a quarter of that figure in 2017
+(690 cases). However, the figures have been on the rise ever since, with 2020 being the only
+dip year. UP’s districts in the top-100 list reported only 423 cases in 2015 and the highest-
+1,766 cases the following year. Interestingly, the number of cases fell year after year but in
+2020 there was a more than 90% increase in reported cases. In 2022 the volume of cases
+(1,629) had inched close to the 2016 figure. See Graph 5 above. The daily average in UP with
+regard to its districts in the top-100 list has also shot up from an all-time low of 1 case in
+2015 to more than 4 cases in 2022. See Tables 17 and 24 above;
+• Chhattisgarh displays a see-sawing trend in the top-100 list of districts. From 721 cases in
+2015 it reached the highest figure of 1,472 cases in 2018 and fell down to an all-time low of
+184 cases in 2021- the second year of the pandemic. However, while the districts of Raipur
+and Bilaspur accounted for all those cases in that year, the same districts together reported
+332 cases in 2022- a 75% increase. See Graph 6 below. The causal factors for this increase as
+well as the see-sawing trend require in-depth study;
+• Assam which figured in all the reporting years under study, records a rising trend in the
+number of cases between 2015 and 2020 from its 3-7 districts which figured in the top-100
+list. The number of cases rose in the first year of the pandemic which is contrary to the trend
+across the country. However, after dipping to 726 cases in 2021, the figure has drastically
+fallen to 98 cases in 2022- all reported from only one district- Kamrup. This phenomenon in
+Assam also requires in-depth study to ascertain the contributory factors. See Graph 6 below;
+14
+
+--- Page 15 ---
+Graph 6
+4) Identifying the most frequently occurring districts in the top-100 list: Before going
+into the names of the districts in this segment, it important to point to a positive trend. None of
+the districts in Goa, Himachal Pradesh, Tamil Nadu or Tripura (apart from those which are
+already named in the ‘zero rape reporting districts’ and UTs above) figured in the top-100 list
+throughout the period under study. Other States and UTs (with the exception of States in the
+northeastern part of the country and Sikkim) have one or more districts figuring on this list in
+some year or the other, if not in multiple years (see accompanying datasets on our website);
+• In Rajasthan, eight districts namely, Alwar, Ajmer, Bharatpur, Ganganagar, Hanumangarh,
+Nagaur, Pratapgarh and Udaipur have figured in the top-100 list in every year of the period
+under study though the actual number of cases vary from year to year. Barmer, Bikaner and
+Sikar and figure in the top-100 list in seven out of eight years of the period under study. See
+Graphs 7&8 below for the annual trend with regard to these districts. With the exception of
+Pratapgarh the remaining 7 districts actually reported more rape cases each in 2022 as
+compared with the 2015 figures (this despite the rising and falling numbers in the intervening
+years);
+Graph 7 Graph 8
+15
+
+--- Page 16 ---
+• Similarly, in MP, five districts namely, Bhopal, Dhar, Gwalior, Indore and Jabalpur have
+figured in the top-100 list in every year of the period under study though the actual number
+of cases have varied from year to year. See Graph 9 below for the annual trend with regard
+to these districts. All five districts reported more cases each in 2022 than the figures
+reported in 2015 (even though the graphs rose and fell in the intervening years);
+Graph 9
+• In Maharashtra, the districts under the jurisdiction of the Mumbai Police Commissionerate
+and the Thane Police Commissionerate have figured in the top-100 list in every year of the
+period under study though the actual number of cases have varied from year to year. See
+Graph 10 below for the annual trend with regard to these districts. The absolute numbers
+have declined considerably in 2022 as compared with the 2015 figures. However, the number
+of cases has increased after a steep decline in 2020- the first year of the COVID-19 pandemic.
+Pune Rural and Pune Police Commissionerate figure in seven out of eight years of the period
+under study;
+Graph 10
+16
+
+--- Page 17 ---
+• In Telangana Cyberabad Police Commissionerate has figured in the top-100 list of districts
+in seven out of eight years of the period under study. Similarly, Barpeta in Assam has figured
+this list in seven out of eight years of the period under study. South Delhi has also figured on
+this list in seven out of eight years of the period under study.
+5) Districts reporting the highest number of cases of rape/gangrape with murder:
+NCRB has begun publishing district-wise data about the incidence of cases of rape/gangrape with
+murder only from 2017. Therefore, data is available for analysis in this category of crime only
+for a 6-year period i.e., up to 2022. See Tables 25-30 for the year-wise names of district reporting
+five or more cases of rape/gangrape with murder annually;
+• While the phenomenon of rape/gangrape has occurred in several States, a handful of them
+are notorious for the occurrence of five or more cases in every year during the 6-year period
+under study. Assam is the only State whose districts figure in this category in every year
+since 2017-2022. Kamrup in Assam appears in this list of districts in four out of five years. In
+fact, the highest number of cases in any given year from a district was reported from
+Kamrup in 2021 (34 cases). See Table 29 below;
+• Maharashtra and UP are two States which occur in this list during multiple years.
+Interestingly, Himachal Pradesh figures in this category of crime (Kangra with 5 cases in 2019),
+despite not figuring in the top-100 list of districts reporting the highest number of rape cases
+(as noted above). Contrastingly, Rajasthan reported less than five cases of rape/gangrape
+with murder per year during the period under study despite figuring in the list of top-100
+districts reporting the highest number of rape cases.
+Table 25 Table 26
+2017 2018
+District State Cases District State Cases
+Hamirpur UP 16 Sagar MP 22
+Amaravati Rural Maharashtra 15 Faridabad Haryana 19
+Rayagada Odisha 9 Sibsagar Assam 15
+Dhemaji Assam 5 Cachar Assam 12
+Pune Police Maharashtra 8
+Commissionerate
+Kamrup Assam 7
+Gumla Jharkhand 6
+Lakhisarai Bihar 5
+Table 27 Table 28
+2019 2020
+District State Cases District State Cases
+Latur Maharashtra 13 Kamrup Assam 18
+Nagpur Rural Maharashtra 10 Giridih Jharkhand 6
+Chitradurga Karnataka 9 Pratapgarh UP 5
+Amaravati Maharashtra 8
+Commissionerate
+17
+
+--- Page 18 ---
+Kollam Rural Kerala 8
+Raigad Maharashtra 7
+Kumaram Bheem Telangana 6
+Asifabad
+Charaideo Assam 6
+Hojai Assam 6
+Kamrup Assam 5
+Udalguri Assam 5
+Kangra HP 5
+Table 29 Table 30
+2021 2022
+District State Cases District State Cases
+Kamrup Assam 34 Meerut UP 18
+Mathura UP 13 Mathura UP 17
+Gumla Jharkhand 8 Chhindwara MP 13
+Guna MP 9 Bongaigaon Assam 12
+Bongaigaon Assam 8 Morbi Gujarat 5
+Hazaribagh Jharkhand 7 Shahdol MP 5
+Chhattarpur MP 5
+Barmer Rajasthan 5
+It must be said that while some cases of rape and rape/gangrape with murder which are reported
+in metropolitan or other major cities across the country and acquire a high profile thanks to
+extensive media coverage creating the impression that these areas are unsafe for women, a larger
+number of cases which occur in other districts around the country deserve an equal amount of
+attention if not more. The purpose of this district-level data analysis is to draw public attention to
+this stark reality. Preventive and punitive measures that are in place in these geographies must
+also be reviewed for their efficacy in the same manner as the metropolitan cities.
+Conclusion
+Almost all media reporting of NCRB data with regard to annual crime trends in general, trends of crimes
+against women in particular and more specifically trends with regard to the offences of rape and
+rape/gangrape with murder has focused on national and state-level data and findings. Very little
+attention has been paid to the district-wise trends. The purpose of this study is to draw the attention of
+society in general and that of policymakers in particular to these micro-level trends. This is the level at
+which policy prescriptions must focus to contain these two categories of crimes. Given the contents of
+the district-wise tables which NCRB publishes year after year, it is possible to analyse trends only with
+regard to the incidence of these categories of offences. District-wise breakups with regard to the disposal
+of these cases by the police and trial courts are not being published. However, such data is available with
+the NCRB because the state level and country-wide statistics published in the CII reports are compiled
+only when district-level data is collected and added up. If micro-level data about the disposal of such
+cases by the police and the trial courts is also published year after year, it would be possible to review
+the performance of these two pillars of the criminal justice system with regard to their efforts to contain
+these twin categories of crimes. Until NCRB publishes such micro-level data proactively, advocates of
+reform must use the Right to Information Act, 2005 to seek and obtain it for the purpose of analysis.
+18
+
+--- Page 19 ---
+Further, given the findings presented in all three parts of this preliminary study, it is abundantly clear
+that the 2013 amendments to the criminal laws have not been very effective in curbing the crimes of
+rape and rape/gangrape with murder. While analysis of court records relating to these categories of
+crimes is crucial to understanding the efficacy of the police and the criminal courts in implementing
+punitive measures, a different approach is necessary to devise preventive measures. To the best of our
+knowledge, preventive measures devised so far make girls and women carry the burden of preventing
+the occurrence of these crimes- be it as mundane as imparting self-defence skills or as advanced as
+requiring them to adopt IT-enabled tracking services which are in essence surveillance measures. To the
+best of our knowledge, there are hardly any measures to prevent or remedy predatory behaviour of
+those who commit such crimes, namely, the boys and men. Designing such measures requires a
+sociological and psychological analysis of the factors that cause such predatory behaviour. Labelling
+patriarchal and feudal tendencies or oppression along the lines of caste and religion as the primary
+causes of such behaviour is only the first step in this analysis. In-depth studies are required to devise and
+implement methods for preventing sexual predatory behaviour. The burden of change lies on the
+potential predator in particular and on society at large, not women and girls who are the target of such
+predatory behaviour.
+*****
+For more information contact: Commonwealth Human Rights Initiative, #55A, 3rd Floor, Siddharth
+Chambers-1, Kalu Sarai, New Delhi- 110016, INDIA.
+Website: www.humanrightsinitiative.org; Email: venkatesh@humanrightsinitiative.org;
+venkateshnayak.ss@gmail.com
+19

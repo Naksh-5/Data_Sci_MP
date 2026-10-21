@@ -1,0 +1,22 @@
+year,state_ut,crime_category,cases_registered,unit,source_id,source_verified,notes
+2019,Rajasthan,Rape (IPC 376),5997,cases,NCRB_CII_2019,TRUE,Highest of any state/UT in 2019; ~19% of national total.
+2019,Uttar Pradesh,Rape (IPC 376),3065,cases,NCRB_CII_2019,TRUE,
+2019,Madhya Pradesh,Rape (IPC 376),2485,cases,NCRB_CII_2019,TRUE,
+2019,Maharashtra,Rape (IPC 376),2299,cases,NCRB_CII_2019,TRUE,
+2019,Kerala,Rape (IPC 376),2023,cases,NCRB_CII_2019,TRUE,
+2019,Delhi (UT),Rape (IPC 376),1253,cases,NCRB_CII_2019,TRUE,Highest among Union Territories.
+2020,Rajasthan,Rape (IPC 376),5310,cases,NCRB_CII_2020,TRUE,
+2020,Uttar Pradesh,Rape (IPC 376),2769,cases,NCRB_CII_2020,TRUE,
+2020,Madhya Pradesh,Rape (IPC 376),2339,cases,NCRB_CII_2020,TRUE,
+2020,Maharashtra,Rape (IPC 376),2061,cases,NCRB_CII_2020,TRUE,
+2020,Delhi (UT),Rape (IPC 376),967,cases,NCRB_CII_2020,TRUE,"Among 19 metro cities specifically (city-level, not state total) - see comparability_notes in geography.csv before merging with state totals."
+2014-2018 (5yr cumulative),Madhya Pradesh,Rape (IPC 376),25259,cases,NCRB_CII_retrospective_2020,TRUE,"Cumulative figure, not annual - do not divide by 5 to estimate annual average without further disaggregation."
+2014-2018 (5yr cumulative),Uttar Pradesh,Rape (IPC 376),19406,cases,NCRB_CII_retrospective_2020,TRUE,Cumulative figure - see note above.
+2014-2018 (5yr cumulative),Rajasthan,Rape (IPC 376),18542,cases,NCRB_CII_retrospective_2020,TRUE,Cumulative figure - see note above.
+2014-2018 (5yr cumulative),Maharashtra,Rape (IPC 376),15613,cases,NCRB_CII_retrospective_2020,TRUE,Cumulative figure - see note above.
+2014-2018 (5yr cumulative),Assam,Rape (IPC 376),8889,cases,NCRB_CII_retrospective_2020,TRUE,Cumulative figure - see note above.
+2014-2018 (5yr cumulative),Delhi (UT),Rape (IPC 376),8693,cases,NCRB_CII_retrospective_2020,TRUE,Cumulative figure - see note above.
+2014-2018 (5yr cumulative),Chhattisgarh,Rape (IPC 376),8592,cases,NCRB_CII_retrospective_2020,TRUE,Cumulative figure - see note above.
+2022,Uttar Pradesh,Crime against women (all categories combined),65743,cases,NCRB_CII_2022,TRUE,"This is the ALL-crimes-against-women total, NOT rape-specific - included here only as a verified reference point; do not merge into the rape-only table."
+2022,Maharashtra,Crime against women (all categories combined),45331,cases,NCRB_CII_2022,TRUE,"Same caveat as above - all-CAW total, not rape-specific."
+2022,Rajasthan,Crime against women (all categories combined),45058,cases,NCRB_CII_2022,TRUE,"Same caveat as above - all-CAW total, not rape-specific."

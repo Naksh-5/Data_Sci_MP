@@ -1,0 +1,11 @@
+year,geographic_level,crime_category,cases_registered,unit,source_id,source_verified,notes
+2014,India (national),Rape (IPC 376),36735,cases,NCRB_CII_2015_RS_Q,TRUE,Also reported as 36739 in one PTI/Business Standard retrospective (2020); NCRB primary report figure 36735 preferred per Rajya Sabha reply. Cross-confirmed by CHRI_2024_analysis Table 1.
+2015,India (national),Rape (IPC 376),34651,cases,NCRB_CII_2015,TRUE,
+2016,India (national),Rape (IPC 376),38947,cases,NCRB_CII_2016,TRUE,Highest annual total in the 2014-2022 series.
+2017,India (national),Rape (IPC 376),32559,cases,NCRB_CII_2017,TRUE,One 2019 retrospective (HT) cites 32599 for 2017; NCRB-sourced 2020 retrospective figure 32559 preferred.
+2018,India (national),Rape (IPC 376),33356,cases,NCRB_CII_2018,TRUE,
+2019,India (national),Rape (IPC 376),32033,cases,NCRB_CII_2019,TRUE,"32260 rape victims recorded (cases != victims, see definitions.csv)."
+2020,India (national),Rape (IPC 376),28046,cases,NCRB_CII_2020,TRUE,Pandemic year; lowest total in series - see README interpretation warning on registration effects.
+2021,India (national),Rape (IPC 376),31677,cases,CHRI_2024_analysis,TRUE,Cross-confirmed against the earlier Wikipedia/Hindu-sourced figure (NCRB_CII_2021).
+2022,India (national),Rape (IPC 376),31516,cases,CHRI_2024_analysis,TRUE,"Now verified via CHRI's compiled NCRB CII 2022 table (Table 1), which supersedes the earlier NA placeholder in this file. The previously noted 7.1%-of-445256 approximation (~31613) is close but not identical to this exact figure - a reminder that percentage-derived numbers should not substitute for the primary count."
+2023,India (national),Rape (IPC 376/BNS),NA,cases,NCRB_CII_2023,FALSE,Crime in India 2023 not yet published as of CHRI's Sept 2024 report (its footnote 3 states 2023 data was not yet available); extraction still pending.

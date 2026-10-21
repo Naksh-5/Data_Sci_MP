@@ -1,0 +1,8 @@
+year,total_survivors,scst_survivors,pct_scst_survivors,scst_women_survivors_18_plus,scst_girl_child_survivors_under_18,source_id,source_verified,notes
+2017,32559,2771,8.51,2104,667,CHRI_2024_analysis,TRUE,
+2018,33356,2957,8.86,2086,871,CHRI_2024_analysis,TRUE,
+2019,32033,3514,10.97,2386,1128,CHRI_2024_analysis,TRUE,
+2020,28046,3396,12.11,2329,1067,CHRI_2024_analysis,TRUE,
+2021,31677,3893,12.29,2606,1287,CHRI_2024_analysis,TRUE,
+2022,31516,4252,13.49,2839,1413,CHRI_2024_analysis,TRUE,"CHRI flags an internal NCRB inconsistency here: NCRB Table 3A.2(i) reportedly shows only 1,004 total girl-child survivors for 2022, while NCRB Table 7A.2 (SC/ST-specific) shows 1,413 SC/ST girl-child survivors alone - a logical impossibility, since the SC/ST subset cannot exceed the overall total. CHRI states NCRB has not clarified this discrepancy. Flagging it here rather than silently picking one number - see data_quality_report.md."
+Total 2017-2022,189187,20783,11.00,14350,6433,CHRI_2024_analysis,TRUE,Cumulative; inherits the 2022 girl-child-survivor caveat above.

@@ -1,0 +1,240 @@
+year,geographic_level,crime_category,indicator,value,unit,denominator_definition,source_id,source_verified,notes
+2017,India (national),Rape (IPC 376),Cases requiring investigation (new),32559,cases,New cases reported that year,CHRI_2024_Part2,TRUE,Matches Part 1 Table 1. Excludes backlog.
+2018,India (national),Rape (IPC 376),Cases requiring investigation (new),33356,cases,New cases reported that year,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Cases requiring investigation (new),32033,cases,New cases reported that year,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Cases requiring investigation (new),28046,cases,New cases reported that year,CHRI_2024_Part2,TRUE,Pandemic year.
+2021,India (national),Rape (IPC 376),Cases requiring investigation (new),31677,cases,New cases reported that year,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Cases requiring investigation (new),31516,cases,New cases reported that year,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Women survivors in rape cases,22500,persons,,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Women survivors in rape cases,24044,persons,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Women survivors in rape cases,27093,persons,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Women survivors in rape cases,25406,persons,,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Women survivors in rape cases,28644,persons,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Women survivors in rape cases,30512,persons,,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Girl survivors in rape cases,10059,persons,,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Girl survivors in rape cases,9312,persons,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Girl survivors in rape cases,4940,persons,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Girl survivors in rape cases,2640,persons,,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Girl survivors in rape cases,3033,persons,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Girl survivors in rape cases,1004,persons,,CHRI_2024_Part2,TRUE,"CHRI flags NCRB inconsistency: Table 3A.2(i) shows 1004 total girl-child survivors, but Table 7A.2 shows 1413 SC/ST girl-child survivors alone — a logical impossibility. See caste_profile_scst.csv."
+2017,India (national),Rape (IPC 376),Investigation backlog (start of year),14406,cases,,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Investigation backlog (start of year),13762,cases,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Investigation backlog (start of year),13480,cases,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Investigation backlog (start of year),15097,cases,,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Investigation backlog (start of year),14391,cases,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Investigation backlog (start of year),13138,cases,,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Total cases for investigation during year,46965,cases,New cases + backlog,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Total cases for investigation during year,47118,cases,New cases + backlog,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Total cases for investigation during year,45513,cases,New cases + backlog,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Total cases for investigation during year,43143,cases,New cases + backlog,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Total cases for investigation during year,46068,cases,New cases + backlog,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Total cases for investigation during year,44654,cases,New cases + backlog,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Cases where chargesheet was submitted,28750,cases,,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Cases where chargesheet was submitted,28469,cases,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Cases where chargesheet was submitted,24848,cases,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Cases where chargesheet was submitted,23693,cases,,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Cases where chargesheet was submitted,26164,cases,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Cases where chargesheet was submitted,26508,cases,,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Cases where final report was submitted (no chargesheet),4364,cases,,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Cases where final report was submitted (no chargesheet),4841,cases,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Cases where final report was submitted (no chargesheet),5504,cases,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Cases where final report was submitted (no chargesheet),5015,cases,,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Cases where final report was submitted (no chargesheet),6256,cases,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Cases where final report was submitted (no chargesheet),7433,cases,,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Investigation completion rate,70.51,percent,Cases where investigation completed / total cases for investigation,CHRI_2024_Part2,TRUE,Inverse of the 29.49% non-completion rate in Table 4.
+2018,India (national),Rape (IPC 376),Investigation completion rate,70.69,percent,Cases where investigation completed / total cases for investigation,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Investigation completion rate,66.69,percent,Cases where investigation completed / total cases for investigation,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Investigation completion rate,66.54,percent,Cases where investigation completed / total cases for investigation,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Investigation completion rate,70.37,percent,Cases where investigation completed / total cases for investigation,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Investigation completion rate,76.01,percent,Cases where investigation completed / total cases for investigation,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Chargesheet rate (among completed investigations),86.82,percent,Cases chargesheeted / cases where investigation was completed,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Chargesheet rate (among completed investigations),85.47,percent,Cases chargesheeted / cases where investigation was completed,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Chargesheet rate (among completed investigations),81.87,percent,Cases chargesheeted / cases where investigation was completed,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Chargesheet rate (among completed investigations),82.53,percent,Cases chargesheeted / cases where investigation was completed,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Chargesheet rate (among completed investigations),80.70,percent,Cases chargesheeted / cases where investigation was completed,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Chargesheet rate (among completed investigations),78.10,percent,Cases chargesheeted / cases where investigation was completed,CHRI_2024_Part2,TRUE,Lowest in the 6-year series. CHRI flags this as concerning.
+2017,India (national),Rape (IPC 376),Chargesheet rate - backlog cases,51.69,percent,Backlog cases chargesheeted / backlog cases,CHRI_2024_Part2,TRUE,7447 of 14406 backlog cases chargesheeted.
+2018,India (national),Rape (IPC 376),Chargesheet rate - backlog cases,51.26,percent,Backlog cases chargesheeted / backlog cases,CHRI_2024_Part2,TRUE,7054 of 13762.
+2019,India (national),Rape (IPC 376),Chargesheet rate - backlog cases,49.00,percent,Backlog cases chargesheeted / backlog cases,CHRI_2024_Part2,TRUE,6605 of 13480.
+2020,India (national),Rape (IPC 376),Chargesheet rate - backlog cases,47.43,percent,Backlog cases chargesheeted / backlog cases,CHRI_2024_Part2,TRUE,7161 of 15097.
+2021,India (national),Rape (IPC 376),Chargesheet rate - backlog cases,47.30,percent,Backlog cases chargesheeted / backlog cases,CHRI_2024_Part2,TRUE,6807 of 14391.
+2022,India (national),Rape (IPC 376),Chargesheet rate - backlog cases,49.89,percent,Backlog cases chargesheeted / backlog cases,CHRI_2024_Part2,TRUE,6554 of 13138.
+2017,India (national),Rape (IPC 376),Chargesheet rate - current-year cases,65.43,percent,Current-year cases chargesheeted / current-year cases,CHRI_2024_Part2,TRUE,21303 of 32559.
+2018,India (national),Rape (IPC 376),Chargesheet rate - current-year cases,64.20,percent,Current-year cases chargesheeted / current-year cases,CHRI_2024_Part2,TRUE,21415 of 33356.
+2019,India (national),Rape (IPC 376),Chargesheet rate - current-year cases,56.95,percent,Current-year cases chargesheeted / current-year cases,CHRI_2024_Part2,TRUE,18243 of 32033.
+2020,India (national),Rape (IPC 376),Chargesheet rate - current-year cases,58.95,percent,Current-year cases chargesheeted / current-year cases,CHRI_2024_Part2,TRUE,16532 of 28046.
+2021,India (national),Rape (IPC 376),Chargesheet rate - current-year cases,61.11,percent,Current-year cases chargesheeted / current-year cases,CHRI_2024_Part2,TRUE,19357 of 31677.
+2022,India (national),Rape (IPC 376),Chargesheet rate - current-year cases,63.31,percent,Current-year cases chargesheeted / current-year cases,CHRI_2024_Part2,TRUE,19954 of 31516.
+2017,India (national),Rape (IPC 376),Cases closed (final report filed),4364,cases,,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Cases closed (final report filed),4841,cases,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Cases closed (final report filed),5504,cases,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Cases closed (final report filed),5015,cases,,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Cases closed (final report filed),6256,cases,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Cases closed (final report filed),7433,cases,,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Cases closed due to insufficient evidence,1012,cases,Cases where police could not collect sufficient prosecutable evidence,CHRI_2024_Part2,TRUE,23.19% of final reports. 883 women + 129 girl survivors affected.
+2018,India (national),Rape (IPC 376),Cases closed due to insufficient evidence,1093,cases,Cases where police could not collect sufficient prosecutable evidence,CHRI_2024_Part2,TRUE,22.58% of final reports. 940 women + 153 girl survivors affected.
+2019,India (national),Rape (IPC 376),Cases closed due to insufficient evidence,1127,cases,Cases where police could not collect sufficient prosecutable evidence,CHRI_2024_Part2,TRUE,20.48% of final reports. 1037 women + 90 girl survivors affected.
+2020,India (national),Rape (IPC 376),Cases closed due to insufficient evidence,987,cases,Cases where police could not collect sufficient prosecutable evidence,CHRI_2024_Part2,TRUE,19.68% of final reports. 935 women + 52 girl survivors affected.
+2021,India (national),Rape (IPC 376),Cases closed due to insufficient evidence,1355,cases,Cases where police could not collect sufficient prosecutable evidence,CHRI_2024_Part2,TRUE,21.66% of final reports. 1296 women + 59 girl survivors affected.
+2022,India (national),Rape (IPC 376),Cases closed due to insufficient evidence,1921,cases,Cases where police could not collect sufficient prosecutable evidence,CHRI_2024_Part2,TRUE,"25.84% of final reports — highest in the series. 1842 women + 79 girl survivors affected. In 2022, a quarter of closed rape cases were closed for insufficient evidence."
+2017,India (national),Rape (IPC 376),Trial backlog (cases from previous years),117451,cases,,CHRI_2024_Part2,TRUE,101315 women + 16316 girl survivors in backlog.
+2018,India (national),Rape (IPC 376),Trial backlog (cases from previous years),127858,cases,,CHRI_2024_Part2,TRUE,106832 women + 10337 girl survivors in backlog.
+2019,India (national),Rape (IPC 376),Trial backlog (cases from previous years),137893,cases,,CHRI_2024_Part2,TRUE,112871 women + 25022 girl survivors in backlog.
+2020,India (national),Rape (IPC 376),Trial backlog (cases from previous years),145865,cases,,CHRI_2024_Part2,TRUE,120432 women + 25433 girl survivors in backlog.
+2021,India (national),Rape (IPC 376),Trial backlog (cases from previous years),159672,cases,,CHRI_2024_Part2,TRUE,132998 women + 26674 girl survivors in backlog.
+2022,India (national),Rape (IPC 376),Trial backlog (cases from previous years),171777,cases,,CHRI_2024_Part2,TRUE,146465 women + 25312 girl survivors in backlog. Backlog grew 46.25% from 2017's 117451.
+2017,India (national),Rape (IPC 376),New cases sent for trial during year,28750,cases,,CHRI_2024_Part2,TRUE,19767 women + 8983 girl survivors.
+2018,India (national),Rape (IPC 376),New cases sent for trial during year,28469,cases,,CHRI_2024_Part2,TRUE,19693 women + 8776 girl survivors.
+2019,India (national),Rape (IPC 376),New cases sent for trial during year,24848,cases,,CHRI_2024_Part2,TRUE,20616 women + 4232 girl survivors.
+2020,India (national),Rape (IPC 376),New cases sent for trial during year,23693,cases,,CHRI_2024_Part2,TRUE,20479 women + 3214 girl survivors.
+2021,India (national),Rape (IPC 376),New cases sent for trial during year,26164,cases,,CHRI_2024_Part2,TRUE,23217 women + 2947 girl survivors.
+2022,India (national),Rape (IPC 376),New cases sent for trial during year,26508,cases,,CHRI_2024_Part2,TRUE,25215 women + 1293 girl survivors.
+2017,India (national),Rape (IPC 376),Total cases for trial during year,146201,cases,Backlog + new cases,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Total cases for trial during year,156327,cases,Backlog + new cases,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Total cases for trial during year,162741,cases,Backlog + new cases,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Total cases for trial during year,169558,cases,Backlog + new cases,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Total cases for trial during year,185386,cases,Backlog + new cases,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Total cases for trial during year,198285,cases,Backlog + new cases,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Cases where trial was completed,18099,cases,,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Cases where trial was completed,17313,cases,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Cases where trial was completed,16701,cases,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Cases where trial was completed,9713,cases,,CHRI_2024_Part2,TRUE,Pandemic year — lowest completion.
+2021,India (national),Rape (IPC 376),Cases where trial was completed,11783,cases,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Cases where trial was completed,18517,cases,,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Trial completion rate,12.38,percent,Cases where trial completed / total cases for trial that year,CHRI_2024_Part2,TRUE,Highest in the 6-year series.
+2018,India (national),Rape (IPC 376),Trial completion rate,11.07,percent,Cases where trial completed / total cases for trial that year,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Trial completion rate,10.26,percent,Cases where trial completed / total cases for trial that year,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Trial completion rate,5.73,percent,Cases where trial completed / total cases for trial that year,CHRI_2024_Part2,TRUE,Lowest — pandemic year.
+2021,India (national),Rape (IPC 376),Trial completion rate,6.36,percent,Cases where trial completed / total cases for trial that year,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Trial completion rate,9.34,percent,Cases where trial completed / total cases for trial that year,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Cases ending in conviction,5822,cases,,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Cases ending in conviction,4708,cases,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Cases ending in conviction,4640,cases,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Cases ending in conviction,3814,cases,,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Cases ending in conviction,3368,cases,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Cases ending in conviction,5067,cases,,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Conviction rate (among completed trials),32.17,percent,Cases convicted / cases where trial completed,CHRI_2024_Part2,TRUE,Highest in the series (excluding the anomalous 2020).
+2018,India (national),Rape (IPC 376),Conviction rate (among completed trials),27.19,percent,Cases convicted / cases where trial completed,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Conviction rate (among completed trials),27.78,percent,Cases convicted / cases where trial completed,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Conviction rate (among completed trials),39.27,percent,Cases convicted / cases where trial completed,CHRI_2024_Part2,TRUE,"Highest rate in series — but against pandemic-depressed trial completions (9713 vs ~17000 normal), so the denominator is artificially small."
+2021,India (national),Rape (IPC 376),Conviction rate (among completed trials),28.58,percent,Cases convicted / cases where trial completed,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Conviction rate (among completed trials),27.36,percent,Cases convicted / cases where trial completed,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Cases ending in acquittal,11543,cases,,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Cases ending in acquittal,11133,cases,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Cases ending in acquittal,10630,cases,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Cases ending in acquittal,5403,cases,,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Cases ending in acquittal,7745,cases,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Cases ending in acquittal,12062,cases,,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Acquittal rate (among completed trials),63.78,percent,Cases acquitted / cases where trial completed,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Acquittal rate (among completed trials),64.30,percent,Cases acquitted / cases where trial completed,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Acquittal rate (among completed trials),63.65,percent,Cases acquitted / cases where trial completed,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Acquittal rate (among completed trials),55.63,percent,Cases acquitted / cases where trial completed,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Acquittal rate (among completed trials),65.73,percent,Cases acquitted / cases where trial completed,CHRI_2024_Part2,TRUE,Highest acquittal rate in the series.
+2022,India (national),Rape (IPC 376),Acquittal rate (among completed trials),65.14,percent,Cases acquitted / cases where trial completed,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Cases ending in discharge of accused,824,cases,,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Cases ending in discharge of accused,1472,cases,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Cases ending in discharge of accused,1431,cases,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Cases ending in discharge of accused,496,cases,,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Cases ending in discharge of accused,670,cases,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Cases ending in discharge of accused,1388,cases,,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Discharge rate (among completed trials),4.55,percent,Cases discharged / cases where trial completed,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape (IPC 376),Discharge rate (among completed trials),8.50,percent,Cases discharged / cases where trial completed,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape (IPC 376),Discharge rate (among completed trials),8.57,percent,Cases discharged / cases where trial completed,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape (IPC 376),Discharge rate (among completed trials),5.11,percent,Cases discharged / cases where trial completed,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape (IPC 376),Discharge rate (among completed trials),5.69,percent,Cases discharged / cases where trial completed,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape (IPC 376),Discharge rate (among completed trials),7.50,percent,Cases discharged / cases where trial completed,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape (IPC 376),Persons under trial,38534,persons,"CHRI assumes this refers to new cases only, not backlog — see Part 2 methodology caveat",CHRI_2024_Part2,TRUE,37785 men + 749 women. CHRI flags that the person-to-case ratio (0.2 for total caseload) is a statistical absurdity unless NCRB means only new-case persons.
+2018,India (national),Rape (IPC 376),Persons under trial,37513,persons,,CHRI_2024_Part2,TRUE,36737 men + 776 women.
+2019,India (national),Rape (IPC 376),Persons under trial,32413,persons,,CHRI_2024_Part2,TRUE,31632 men + 781 women.
+2020,India (national),Rape (IPC 376),Persons under trial,30770,persons,,CHRI_2024_Part2,TRUE,29887 men + 783 women.
+2021,India (national),Rape (IPC 376),Persons under trial,33706,persons,,CHRI_2024_Part2,TRUE,32851 men + 855 women.
+2022,India (national),Rape (IPC 376),Persons under trial,33750,persons,,CHRI_2024_Part2,TRUE,32975 men + 773 women.
+2017,India (national),Rape (IPC 376),Persons convicted,6957,persons,,CHRI_2024_Part2,TRUE,6902 men + 55 women.
+2018,India (national),Rape (IPC 376),Persons convicted,5969,persons,,CHRI_2024_Part2,TRUE,5921 men + 48 women.
+2019,India (national),Rape (IPC 376),Persons convicted,5800,persons,,CHRI_2024_Part2,TRUE,5733 men + 67 women.
+2020,India (national),Rape (IPC 376),Persons convicted,4473,persons,,CHRI_2024_Part2,TRUE,4454 men + 19 women.
+2021,India (national),Rape (IPC 376),Persons convicted,4227,persons,,CHRI_2024_Part2,TRUE,4181 men + 46 women.
+2022,India (national),Rape (IPC 376),Persons convicted,6037,persons,,CHRI_2024_Part2,TRUE,6009 men + 28 women.
+2017,India (national),Rape (IPC 376),Persons acquitted,15068,persons,,CHRI_2024_Part2,TRUE,14799 men + 269 women.
+2018,India (national),Rape (IPC 376),Persons acquitted,14391,persons,,CHRI_2024_Part2,TRUE,14177 men + 214 women.
+2019,India (national),Rape (IPC 376),Persons acquitted,13373,persons,,CHRI_2024_Part2,TRUE,13084 men + 289 women.
+2020,India (national),Rape (IPC 376),Persons acquitted,6842,persons,,CHRI_2024_Part2,TRUE,6675 men + 167 women.
+2021,India (national),Rape (IPC 376),Persons acquitted,9558,persons,,CHRI_2024_Part2,TRUE,9395 men + 163 women.
+2022,India (national),Rape (IPC 376),Persons acquitted,14679,persons,,CHRI_2024_Part2,TRUE,14377 men + 302 women. Highest acquittal count in the series.
+2017,India (national),Rape/gangrape with murder,Investigation backlog (start of year),108,cases,,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape/gangrape with murder,Investigation backlog (start of year),99,cases,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape/gangrape with murder,Investigation backlog (start of year),131,cases,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape/gangrape with murder,Investigation backlog (start of year),160,cases,,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape/gangrape with murder,Investigation backlog (start of year),184,cases,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape/gangrape with murder,Investigation backlog (start of year),215,cases,,CHRI_2024_Part2,TRUE,Backlog doubled from 2017.
+2017,India (national),Rape/gangrape with murder,Total cases for investigation during year,331,cases,New + backlog,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape/gangrape with murder,Total cases for investigation during year,393,cases,New + backlog,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape/gangrape with murder,Total cases for investigation during year,414,cases,New + backlog,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape/gangrape with murder,Total cases for investigation during year,379,cases,New + backlog,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape/gangrape with murder,Total cases for investigation during year,468,cases,New + backlog,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape/gangrape with murder,Total cases for investigation during year,463,cases,New + backlog,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape/gangrape with murder,Chargesheet rate (among completed investigations),95.05,percent,,CHRI_2024_Part2,TRUE,211 chargesheeted of 222 completed.
+2018,India (national),Rape/gangrape with murder,Chargesheet rate (among completed investigations),87.16,percent,,CHRI_2024_Part2,TRUE,224 of 257.
+2019,India (national),Rape/gangrape with murder,Chargesheet rate (among completed investigations),94.72,percent,,CHRI_2024_Part2,TRUE,233 of 246.
+2020,India (national),Rape/gangrape with murder,Chargesheet rate (among completed investigations),90.67,percent,,CHRI_2024_Part2,TRUE,175 of 193.
+2021,India (national),Rape/gangrape with murder,Chargesheet rate (among completed investigations),91.30,percent,,CHRI_2024_Part2,TRUE,231 of 253.
+2022,India (national),Rape/gangrape with murder,Chargesheet rate (among completed investigations),84.81,percent,,CHRI_2024_Part2,TRUE,240 of 283. Lowest in series.
+2017,India (national),Rape/gangrape with murder,Investigation non-completion rate,32.93,percent,Cases not completed / total for investigation,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape/gangrape with murder,Investigation non-completion rate,34.61,percent,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape/gangrape with murder,Investigation non-completion rate,40.58,percent,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape/gangrape with murder,Investigation non-completion rate,49.08,percent,,CHRI_2024_Part2,TRUE,Nearly half not completed — pandemic year.
+2021,India (national),Rape/gangrape with murder,Investigation non-completion rate,45.94,percent,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape/gangrape with murder,Investigation non-completion rate,38.88,percent,,CHRI_2024_Part2,TRUE,
+2017,India (national),Rape/gangrape with murder,Trial backlog (cases from previous years),363,cases,,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape/gangrape with murder,Trial backlog (cases from previous years),500,cases,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape/gangrape with murder,Trial backlog (cases from previous years),605,cases,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape/gangrape with murder,Trial backlog (cases from previous years),761,cases,,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape/gangrape with murder,Trial backlog (cases from previous years),906,cases,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape/gangrape with murder,Trial backlog (cases from previous years),1093,cases,,CHRI_2024_Part2,TRUE,Tripled from 2017's 363.
+2017,India (national),Rape/gangrape with murder,Total cases for trial during year,574,cases,Backlog + new,CHRI_2024_Part2,TRUE,
+2018,India (national),Rape/gangrape with murder,Total cases for trial during year,724,cases,,CHRI_2024_Part2,TRUE,
+2019,India (national),Rape/gangrape with murder,Total cases for trial during year,838,cases,,CHRI_2024_Part2,TRUE,
+2020,India (national),Rape/gangrape with murder,Total cases for trial during year,936,cases,,CHRI_2024_Part2,TRUE,
+2021,India (national),Rape/gangrape with murder,Total cases for trial during year,1137,cases,,CHRI_2024_Part2,TRUE,
+2022,India (national),Rape/gangrape with murder,Total cases for trial during year,1333,cases,,CHRI_2024_Part2,TRUE,132% increase from 2017.
+2017,India (national),Rape/gangrape with murder,Trial completion rate,9.93,percent,,CHRI_2024_Part2,TRUE,57 of 574 cases completed.
+2018,India (national),Rape/gangrape with murder,Trial completion rate,6.77,percent,,CHRI_2024_Part2,TRUE,49 of 724.
+2019,India (national),Rape/gangrape with murder,Trial completion rate,8.11,percent,,CHRI_2024_Part2,TRUE,68 of 838.
+2020,India (national),Rape/gangrape with murder,Trial completion rate,2.88,percent,,CHRI_2024_Part2,TRUE,27 of 936. Lowest.
+2021,India (national),Rape/gangrape with murder,Trial completion rate,3.96,percent,,CHRI_2024_Part2,TRUE,45 of 1137.
+2022,India (national),Rape/gangrape with murder,Trial completion rate,4.65,percent,,CHRI_2024_Part2,TRUE,62 of 1333.
+2017,India (national),Rape/gangrape with murder,Conviction rate (among completed trials),57.89,percent,,CHRI_2024_Part2,TRUE,33 of 57.
+2018,India (national),Rape/gangrape with murder,Conviction rate (among completed trials),61.22,percent,,CHRI_2024_Part2,TRUE,30 of 49.
+2019,India (national),Rape/gangrape with murder,Conviction rate (among completed trials),63.24,percent,,CHRI_2024_Part2,TRUE,43 of 68.
+2020,India (national),Rape/gangrape with murder,Conviction rate (among completed trials),62.96,percent,,CHRI_2024_Part2,TRUE,17 of 27.
+2021,India (national),Rape/gangrape with murder,Conviction rate (among completed trials),75.56,percent,,CHRI_2024_Part2,TRUE,34 of 45. Highest.
+2022,India (national),Rape/gangrape with murder,Conviction rate (among completed trials),69.35,percent,,CHRI_2024_Part2,TRUE,43 of 62.
+2017,India (national),Rape/gangrape with murder,Acquittal rate (among completed trials),42.11,percent,,CHRI_2024_Part2,TRUE,24 of 57.
+2018,India (national),Rape/gangrape with murder,Acquittal rate (among completed trials),2.04,percent,,CHRI_2024_Part2,TRUE,1 of 49.
+2019,India (national),Rape/gangrape with murder,Acquittal rate (among completed trials),35.29,percent,,CHRI_2024_Part2,TRUE,24 of 68.
+2020,India (national),Rape/gangrape with murder,Acquittal rate (among completed trials),37.04,percent,,CHRI_2024_Part2,TRUE,10 of 27.
+2021,India (national),Rape/gangrape with murder,Acquittal rate (among completed trials),22.22,percent,,CHRI_2024_Part2,TRUE,10 of 45.
+2022,India (national),Rape/gangrape with murder,Acquittal rate (among completed trials),30.65,percent,,CHRI_2024_Part2,TRUE,19 of 62.
+2017,India (national),Rape/gangrape with murder,Persons under trial,314,persons,,CHRI_2024_Part2,TRUE,312 men + 2 women.
+2018,India (national),Rape/gangrape with murder,Persons under trial,344,persons,,CHRI_2024_Part2,TRUE,332 men + 12 women.
+2019,India (national),Rape/gangrape with murder,Persons under trial,347,persons,,CHRI_2024_Part2,TRUE,337 men + 10 women.
+2020,India (national),Rape/gangrape with murder,Persons under trial,285,persons,,CHRI_2024_Part2,TRUE,276 men + 9 women.
+2021,India (national),Rape/gangrape with murder,Persons under trial,398,persons,,CHRI_2024_Part2,TRUE,389 men + 9 women.
+2022,India (national),Rape/gangrape with murder,Persons under trial,403,persons,,CHRI_2024_Part2,TRUE,387 men + 16 women.
+2017,India (national),Rape/gangrape with murder,Persons convicted,48,persons,,CHRI_2024_Part2,TRUE,All men.
+2018,India (national),Rape/gangrape with murder,Persons convicted,36,persons,,CHRI_2024_Part2,TRUE,All men.
+2019,India (national),Rape/gangrape with murder,Persons convicted,48,persons,,CHRI_2024_Part2,TRUE,All men.
+2020,India (national),Rape/gangrape with murder,Persons convicted,26,persons,,CHRI_2024_Part2,TRUE,24 men + 2 women.
+2021,India (national),Rape/gangrape with murder,Persons convicted,46,persons,,CHRI_2024_Part2,TRUE,45 men + 1 woman.
+2022,India (national),Rape/gangrape with murder,Persons convicted,62,persons,,CHRI_2024_Part2,TRUE,60 men + 2 women.
+2017,India (national),Rape/gangrape with murder,Persons acquitted,32,persons,,CHRI_2024_Part2,TRUE,All men.
+2018,India (national),Rape/gangrape with murder,Persons acquitted,33,persons,,CHRI_2024_Part2,TRUE,31 men + 2 women.
+2019,India (national),Rape/gangrape with murder,Persons acquitted,36,persons,,CHRI_2024_Part2,TRUE,All men.
+2020,India (national),Rape/gangrape with murder,Persons acquitted,12,persons,,CHRI_2024_Part2,TRUE,11 men + 1 woman.
+2021,India (national),Rape/gangrape with murder,Persons acquitted,14,persons,,CHRI_2024_Part2,TRUE,All men.
+2022,India (national),Rape/gangrape with murder,Persons acquitted,24,persons,,CHRI_2024_Part2,TRUE,All men.
+2017,India (national),Crime against women (all CAW - NOT rape-specific),Conviction rate - crimes against women (all CAW categories),24.5,percent,Cases convicted / cases where trial completed in 2017,NCRB_CII_2017,TRUE,This is the all-crimes-against-women rate. The rape-specific conviction rate is 32.17% (see above).
+2017,Delhi (UT),Crime against women (all CAW - NOT rape-specific),Conviction rate - crimes against women (all CAW categories),35,percent,Cases convicted / cases where trial completed in 2017,NCRB_CII_2017,TRUE,
+2017,Gujarat,Crime against women (all CAW - NOT rape-specific),Conviction rate - crimes against women (all CAW categories),3.1,percent,Cases convicted / cases where trial completed in 2017,NCRB_CII_2017,TRUE,Cited as one of the two lowest-performing states that year.
+2017,West Bengal,Crime against women (all CAW - NOT rape-specific),Conviction rate - crimes against women (all CAW categories),3.2,percent,Cases convicted / cases where trial completed in 2017,NCRB_CII_2017,TRUE,Cited as one of the two lowest-performing states that year.
+2022,Mumbai (city),Crime against women (all CAW - NOT rape-specific),Charge-sheet rate - crimes against women (all CAW categories),80.6,percent,Cases charge-sheeted / cases due for investigation completion in 2022,NCRB_CII_2022,TRUE,City-level (metro) — see geography.csv.
