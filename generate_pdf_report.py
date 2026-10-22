@@ -16,6 +16,13 @@ base_dir = os.getcwd()
 graphs_dir = os.path.join(base_dir, "graphs")
 pdf_path = os.path.join(base_dir, "Data_Science_Mini_Project_Report.pdf")
 
+def get_graph(name_base):
+    for sub, ext in [("graphs_pdf", ".jpg"), ("graphs", ".png")]:
+        p = os.path.join(base_dir, sub, f"{name_base}{ext}")
+        if os.path.exists(p):
+            return p
+    return os.path.join(graphs_dir, f"{name_base}.png")
+
 # Custom Canvas for Page Numbers & Headers
 class NumberedCanvas(canvas.Canvas):
     def __init__(self, *args, **kwargs):
@@ -439,8 +446,8 @@ story.append(Paragraph("&bull; Applying a logarithmic transformation (log(1+x)) 
 story.append(Paragraph("&bull; The boxplot illustrates high dispersion and validates the necessity of robust scaling.", bullet_style))
 story.append(Spacer(1, 6))
 
-img_p1 = os.path.join(graphs_dir, "01_univariate_caseload_distributions.png")
-if os.path.exists(img_p1):
+img_p1 = get_graph("01_univariate_caseload_distributions")
+if img_p1 and os.path.exists(img_p1):
     story.append(Image(img_p1, width=500, height=140))
 story.append(Spacer(1, 10))
 
@@ -449,8 +456,8 @@ story.append(Paragraph("&bull; <b>National Trajectory:</b> Registered cases rema
 story.append(Paragraph("&bull; <b>Top States:</b> Rajasthan, Madhya Pradesh, Uttar Pradesh, and Maharashtra account for over 45% of total registered cases in India.", bullet_style))
 story.append(Spacer(1, 6))
 
-img_p2 = os.path.join(graphs_dir, "02_national_trend_and_top_states.png")
-if os.path.exists(img_p2):
+img_p2 = get_graph("02_national_trend_and_top_states")
+if img_p2 and os.path.exists(img_p2):
     story.append(Image(img_p2, width=500, height=155))
 story.append(PageBreak())
 
@@ -460,8 +467,8 @@ story.append(Paragraph("&bull; <b>Heatmap Analysis:</b> Longitudinal caseloads a
 story.append(Paragraph("&bull; <b>SC/ST Demographic Share:</b> The percentage of total cases booked under the SC/ST Prevention of Atrocities Act rose steadily from <b>6.08% in 2014 to 13.46% in 2022</b>, demonstrating increasing statutory invocation and awareness.", bullet_style))
 story.append(Spacer(1, 6))
 
-img_p3 = os.path.join(graphs_dir, "03_state_caseload_heatmap_and_scst_share.png")
-if os.path.exists(img_p3):
+img_p3 = get_graph("03_state_caseload_heatmap_and_scst_share")
+if img_p3 and os.path.exists(img_p3):
     story.append(Image(img_p3, width=500, height=155))
 story.append(Spacer(1, 10))
 
@@ -470,8 +477,8 @@ story.append(Paragraph("&bull; Over 10% of district-year returns record exactly 
 story.append(Paragraph("&bull; Time-series tracking highlights persistent zero-reporting across remote and border districts.", bullet_style))
 story.append(Spacer(1, 6))
 
-img_p10 = os.path.join(graphs_dir, "10_zero_reporting_districts_trend.png")
-if os.path.exists(img_p10):
+img_p10 = get_graph("10_zero_reporting_districts_trend")
+if img_p10 and os.path.exists(img_p10):
     story.append(Image(img_p10, width=420, height=140))
 story.append(Spacer(1, 10))
 
@@ -522,8 +529,8 @@ story.append(Spacer(1, 8))
 
 story.append(Paragraph("<b>Central Limit Theorem (CLT) Probability Convergence</b>", h2_style))
 story.append(Paragraph("&bull; Sampling 1,000 iterations across sample sizes n = 5, 30, and 100 confirms empirical convergence to the Gaussian normal curve.", bullet_style))
-img_p4 = os.path.join(graphs_dir, "04_central_limit_theorem_simulation.png")
-if os.path.exists(img_p4):
+img_p4 = get_graph("04_central_limit_theorem_simulation")
+if img_p4 and os.path.exists(img_p4):
     story.append(Image(img_p4, width=500, height=130))
 story.append(Spacer(1, 10))
 
@@ -552,8 +559,8 @@ story.append(PageBreak())
 
 # ML Part 2: Classification Visuals & Linear Regression
 story.append(Paragraph("<b>Classification Performance & ROC-AUC Curves</b>", h2_style))
-img_p5 = os.path.join(graphs_dir, "05_classification_confusion_matrices_and_roc.png")
-if os.path.exists(img_p5):
+img_p5 = get_graph("05_classification_confusion_matrices_and_roc")
+if img_p5 and os.path.exists(img_p5):
     story.append(Image(img_p5, width=500, height=140))
 story.append(Spacer(1, 10))
 
@@ -578,8 +585,8 @@ Actual vs Predicted scatter plot demonstrates strong linear correlation along th
 story.append(make_output_box(output_linreg))
 story.append(Spacer(1, 8))
 
-img_p6 = os.path.join(graphs_dir, "06_regression_actual_vs_predicted.png")
-if os.path.exists(img_p6):
+img_p6 = get_graph("06_regression_actual_vs_predicted")
+if img_p6 and os.path.exists(img_p6):
     story.append(Image(img_p6, width=380, height=150))
 story.append(PageBreak())
 
@@ -632,23 +639,23 @@ Random Forest (Best): Accuracy = 0.9129, F1 = 0.8250, ROC-AUC = 0.9482"""
 story.append(make_output_box(output_rf))
 story.append(Spacer(1, 8))
 
-img_p8 = os.path.join(graphs_dir, "08_feature_importance_random_forest.png")
-if os.path.exists(img_p8):
+img_p8 = get_graph("08_feature_importance_random_forest")
+if img_p8 and os.path.exists(img_p8):
     story.append(Image(img_p8, width=440, height=140))
 story.append(PageBreak())
 
 # ML Part 4: Clustering & National Funnel
 story.append(Paragraph("<b>5. Unsupervised Risk Stratification (K-Means Clustering)</b>", h2_style))
 story.append(Paragraph("&bull; K-Means clustering (k=3) groups districts into distinct risk profiles: Cluster 0 (Low Priority / Rural), Cluster 1 (Moderate Volume), and Cluster 2 (High Burden / Volatile Metropolitan Commissionerates).", bullet_style))
-img_p7 = os.path.join(graphs_dir, "07_kmeans_district_risk_clusters.png")
-if os.path.exists(img_p7):
+img_p7 = get_graph("07_kmeans_district_risk_clusters")
+if img_p7 and os.path.exists(img_p7):
     story.append(Image(img_p7, width=420, height=155))
 story.append(Spacer(1, 10))
 
 story.append(Paragraph("<b>6. National Judicial Funnel Analytics (2022 Returns)</b>", h2_style))
 story.append(Paragraph("&bull; Tracking 31,516 registered cases reveals that 78.8% complete police investigation and receive chargesheets, but court trial completion drops to 58.0%, resulting in 5,102 convictions. Trial pendency (>85%) represents the primary justice constraint.", bullet_style))
-img_p9 = os.path.join(graphs_dir, "09_national_judicial_funnel_2022.png")
-if os.path.exists(img_p9):
+img_p9 = get_graph("09_national_judicial_funnel_2022")
+if img_p9 and os.path.exists(img_p9):
     story.append(Image(img_p9, width=440, height=155))
 story.append(PageBreak())
 
